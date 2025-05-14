@@ -1,73 +1,78 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Verma</h1>
-<h3 align="center">AI Enthusiast | Full Stack Developer | Toolsmith</h3>
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems+🧠;Loving+Blender+%2B+Deep+Learning+❤️;Python+%7C+Django+%7C+React+%7C+Qt+%7C+AI+Tools+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58A&center=true&vCenter=true&width=800&lines=AI+Enthusiast+%26+Full+Stack+Developer;Building+smart+systems+with+Python%2C+Django%2C+React;Crafting+AI+tools%2C+3D+synthetic+data+%26+enterprise+apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📜 Certifications
+### 🧠 Projects & Certificates
 
-<table>
-  <tr>
-    <td align="center"><img src="./microsoft_python.jpg" width="100"/><br>Microsoft Python</td>
-    <td align="center"><img src="./meta_backend.jpg" width="100"/><br>Meta Backend</td>
-    <td align="center"><img src="./meta_frontend.jpg" width="100"/><br>Meta FrontEnd</td>
-    <td align="center"><img src="./gen_ai.jpg" width="100"/><br>Generative AI</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./blender_3d.jpg" width="100"/><br>Blender 3D</td>
-    <td align="center"><img src="./project_management.jpg" width="100"/><br>Google PM</td>
-    <td align="center"><img src="./cisco_python.jpg" width="100"/><br>Cisco Python</td>
-    <td align="center"><img src="./data_analytics.jpg" width="100"/><br>Data Analytics</td>
-  </tr>
-</table>
+| Microsoft Python | Meta Backend | Meta FrontEnd | Generative AI |
+|:----------------:|:------------:|:-------------:|:-------------:|
+| ![Microsoft Python](./microsoft_python.jpg) | ![Meta Backend](./meta_backend.jpg) | ![Meta Frontend](./meta_frontend.jpg) | ![Gen AI](./gen_ai.jpg) |
+
+| Synthetic Data (Blender) | Google PM | Cisco Python | Data Analytics |
+|:------------------------:|:---------:|:------------:|:--------------:|
+| ![Blender 3D](./blender_3d.jpg) | ![Project Management](./project_management.jpg) | ![Cisco Python](./cisco_python.jpg) | ![Data Analytics](./data_analytics.jpg) |
 
 ---
 
-## 🚧 Currently Working On:
+### 🚀 What I'm Working On
+
 - 🤖 Deep Learning, Computer Vision & Synthetic Data
-- 🌐 Full Stack: Django + React + API
-- 🖥️ Qt-based Desktop Applications for Enterprises
-- 🧠 Smart AI-Powered Tools for Real-World Use Cases
-
-## 📚 Currently Learning:
-- 🌟 Generative AI & LLMs (LangChain, Ollama)
-- 🧱 Advanced Blender 3D for AI datasets
-- ⚙️ Scalable API Design & Deployment
+- 🧱 Full Stack Development (Django + React + REST APIs)
+- 🖥️ Enterprise Desktop Apps with Qt (PySide6)
+- 🛠️ Smart, AI-powered productivity tools
 
 ---
 
-## 📫 Let's Connect
+### 📚 Currently Exploring
+
+- 🧠 Generative AI & LLMs
+- 🎨 Blender for 3D and synthetic dataset generation
+- 🌐 Scalable API & Microservices Design
+
+---
+
+### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhishek-verma-11729123a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://instagram.com/abhiiverma007" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/abhiiverma007" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.leetcode.com/abhiiverma007" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://linkedin.com/in/abhishek-verma-11729123a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/abhiiverma007" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/abhiiverma007" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/abhiiverma007" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,qt,blender,ai,tensorflow,pytorch,opencv,html,css,js,nodejs,mysql,docker,git,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,qt,blender,figma,tailwind,js,html,css,nodejs,mysql,git,docker,tensorflow,pytorch,opencv,pandas,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiverma007&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiverma007&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiiverma007&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiverma007&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
 </p>
