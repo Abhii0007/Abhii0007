@@ -21,9 +21,11 @@
 - Building Smart Tools for Real-World Use Cases
 
 🌱 I’m currently learning:
-- Generative AI & LLMs
-- Advanced 3D workflows with Blender
-- Scalable API Design
+- Software Development and Business model principles
+- User Experience and rapid solutions in application tool
+- Full Stack web apps and scalable API Design
+- In Ai Computer vision with synthetic data using advanced 3D Softwares
+  
 
 ---
 
