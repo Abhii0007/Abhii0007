@@ -67,13 +67,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii0007&layout=compact&theme=radical" height="165" />
-</p>
-
----
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em>
