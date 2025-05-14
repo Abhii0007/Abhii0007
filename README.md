@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 <h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
 
-| Microsoft Python | Inbuilt image editor | abhishek verma |
-| ![My Image](./microsoft_python.jpg) | ![My Image](./microsoft_python.jpg) | ![My Image](./meta_backend.jpg) |
+| Microsoft Python | Meta backend | Meta FrontEnd |
 |------------|-----------|-----------|
+| ![My Image](./microsoft_python.jpg) | ![My Image](./meta_backend.jpg) | ![My Image](./meta_frontend.jpg) |
+|------------|-----------|-----------|
+
+| Generative Ai | Syhnthetic Data using Blender | Google Project Management |
+|------------|-----------|-----------|
+| ![My Image](./gen_ai.jpg) | ![My Image](./blender_3d.jpg) | ![My Image](./project_management.jpg) |
+
+| Cisco Python | Meta Django | Data Analytics |
+|------------|-----------|-----------|
+| ![My Image](./cisco_python.jpg) | ![My Image](./meta_django.jpg) | ![My Image](./data_analytics.jpg) |
 
 
 
