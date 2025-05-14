@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">An AI & Full Stack Developer passionate about building intelligent systems, scalable web apps, and 3D-driven solutions.</h3>
+<h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems, scalable web apps, enterprise desktop apps and 3D-driven solutions.</h3>
 
 ---
 
