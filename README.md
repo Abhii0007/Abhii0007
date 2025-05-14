@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems, scalable web apps, enterprise desktop apps and 3D-driven solutions.</h3>
+<h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
 
 ---
 
 🔭 I’m currently working on:
 - Deep Learning, Computer Vision & Synthetic Data Generation
-- Full Stack Development with Django + React
-- Custom Enterprise Desktop Applications using PySide6 / Qt
+- Full Stack Development with Django + React + Api
+- Custom Enterprise Desktop Applications Tools using Qt and python frameworks
 - Building Smart Tools for Real-World Use Cases
 
 🌱 I’m currently learning:
