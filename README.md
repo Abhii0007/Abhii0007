@@ -2,7 +2,7 @@
 <h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
 
 | Microsoft Python | Meta backend | Meta FrontEnd | Generative Ai 
-|------------|-----------|-----------|-----------|
+|                   |-----------|-----------|-----------|
 | ![My Image](./microsoft_python.jpg) | ![My Image](./meta_backend.jpg) | ![My Image](./meta_frontend.jpg) | ![My Image](./gen_ai.jpg) |
 |------------|-----------|-----------|-----------|
  Syhnthetic Data using Blender | Google Project Management | Cisco Python | Data Analytics |
