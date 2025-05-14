@@ -4,7 +4,7 @@
 | Microsoft Python | Meta backend | Meta FrontEnd | Generative Ai 
 |-----------|-----------|-----------|-----------|
 | ![My Image](./microsoft_python.jpg) | ![My Image](./meta_backend.jpg) | ![My Image](./meta_frontend.jpg) | ![My Image](./gen_ai.jpg) |
-|------------|-----------|-----------|-----------|
+
  Syhnthetic Data using Blender | Google Project Management | Cisco Python | Data Analytics |
 |------------|-----------|-----------|-----------|
 | ![My Image](./blender_3d.jpg) | ![My Image](./project_management.jpg) | ![My Image](./cisco_python.jpg)  | ![My Image](./data_analytics.jpg) |
