@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😊, I'm Abhishek Verma</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 <h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
 
 | Microsoft Python | Meta backend | Meta FrontEnd | Generative Ai 
@@ -11,7 +11,6 @@
 
 
 
-
 ---
 
 🔭 I’m currently working on:
@@ -21,11 +20,9 @@
 - Building Smart Tools for Real-World Use Cases
 
 🌱 I’m currently learning:
-- Software Development and Business model principles
-- User Experience and rapid solutions in application tool
-- Full Stack web apps and scalable API Design
-- In Ai Computer vision with synthetic data using advanced 3D Softwares
-  
+- Generative AI & LLMs
+- Advanced 3D workflows with Blender
+- Scalable API Design
 
 ---
 
