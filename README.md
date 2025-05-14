@@ -7,7 +7,7 @@
 |------------|-----------|-----------|-----------|
  Syhnthetic Data using Blender | Google Project Management | Cisco Python | Data Analytics |
 |------------|-----------|-----------|-----------|
-| ![My Image](./blender_3d.jpg) | ![My Image](./project_management.jpg) | [My Image](./cisco_python.jpg)  | ![My Image](./data_analytics.jpg) |
+| ![My Image](./blender_3d.jpg) | ![My Image](./project_management.jpg) | ![My Image](./cisco_python.jpg)  | ![My Image](./data_analytics.jpg) |
 
 
 
