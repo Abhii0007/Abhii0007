@@ -3,7 +3,7 @@
 
 | Microsoft Python | Inbuilt image editor |
 |------------|-----------|
-| ![My Image](./microsoft_python.png) | ![My Image](./microsoft_python.png) |
+| ![My Image](./microsoft_python.jpg) | ![My Image](./microsoft_python.jpg) |
 |------------|-----------|
 
 
