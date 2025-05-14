@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
-
+<h1 align="center">Hey there 👋, I'm Abhishek Verma</h1>
+<h3 align="center">AI Enthusiast | Full Stack Developer | Toolsmith</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems+🧠;Loving+Blender+%2B+Deep+Learning+❤️;Python+%7C+Django+%7C+React+%7C+Qt+%7C+AI+Tools+🚀" alt="Typing SVG" />
 </p>
-
-| Microsoft Python | Meta backend | Meta FrontEnd | Generative Ai 
-|-----------|-----------|-----------|-----------|
-| ![My Image](./microsoft_python.jpg) | ![My Image](./meta_backend.jpg) | ![My Image](./meta_frontend.jpg) | ![My Image](./gen_ai.jpg) |
-
- Syhnthetic Data using Blender | Google Project Management | Cisco Python | Data Analytics |
-|------------|-----------|-----------|-----------|
-| ![My Image](./blender_3d.jpg) | ![My Image](./project_management.jpg) | ![My Image](./cisco_python.jpg)  | ![My Image](./data_analytics.jpg) |
-
-
-
 
 ---
 
