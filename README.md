@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58A&center=true&vCenter=true&width=800&lines=AI+Enthusiast+%26+Full+Stack+Developer;Building+smart+systems+with+Python%2C+Django%2C+React;Crafting+AI+tools%2C+3D+synthetic+data+%26+enterprise+apps" alt="Typing SVG" />
 </p>
 
+<h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
+
+
 ---
 
 ### 🧠 Projects & Certificates
@@ -22,10 +25,10 @@
 
 ### 🚀 What I'm Working On
 
-- 🤖 Deep Learning, Computer Vision & Synthetic Data
+- 🤖 Deep Learning, Computer Vision & Synthetic Data Generation
 - 🧱 Full Stack Development (Django + React + REST APIs)
-- 🖥️ Enterprise Desktop Apps with Qt (PySide6)
-- 🛠️ Smart, AI-powered productivity tools
+- 🖥️ Custom Enterprise Desktop Applications Tools using Qt and python frameworks
+- 🛠️ Building Smart Tools for Real-World Use Cases
 
 ---
 
