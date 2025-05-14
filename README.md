@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 <h3 align="center">An Ai enthusiast & Full Stack Developer passionate about building intelligent systems and tools includes scalable web apps, enterprise desktop apps and Ai-driven solutions.</h3>
 
+
+
+![My Image](./microsoft_python.png)
+
 ---
 
 🔭 I’m currently working on:
