@@ -21,28 +21,14 @@
 |:------------------------:|:---------:|:------------:|:--------------:|
 | ![Blender 3D](./blender_3d.jpg) | ![Project Management](./project_management.jpg) | ![Cisco Python](./cisco_python.jpg) | ![Data Analytics](./data_analytics.jpg) |
 
----
 
-### 🚀 What I'm Working On
-
-- 🤖 Deep Learning, Computer Vision & Synthetic Data Generation
-- 🧱 Full Stack Development (Django + React + REST APIs)
-- 🖥️ Custom Enterprise Desktop Applications Tools using Qt and python frameworks
-- 🛠️ Building Smart Tools for Real-World Use Cases
-
----
-
-### 📚 Currently Exploring
+### 🚀 Currently Exploring
 
 - 🧠 Generative AI & Deep Learning
 - 🎨 Agentic AI based Orchestration system Design
+- 🖥️ Custom Enterprise Desktop Applications Tools using Qt/python/Langraph/LangChain-frameworks
 - 🌐 Product Design and Business Intelligence..
 
----
-
-### 🔗 Connect With Me
-
----
 
 ### 🛠️ Tech Stack
 
