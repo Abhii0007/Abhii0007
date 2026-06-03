@@ -34,9 +34,9 @@
 
 ### 📚 Currently Exploring
 
-- 🧠 Generative AI & LLMs
-- 🎨 Blender for 3D and synthetic dataset generation
-- 🌐 Scalable API & Microservices Design
+- 🧠 Generative AI & Deep Learning
+- 🎨 Agentic AI based Orchestration system Design
+- 🌐 Product Design and Business Intelligence..
 
 ---
 
