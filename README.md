@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58A&center=true&vCenter=true&width=800&lines=AI+Enthusiast+%26+Full+Stack+Developer;Building+smart+systems+with+Python%2C+Django%2C+React;Crafting+AI+tools%2C+3D+synthetic+data+%26+enterprise+apps" alt="Typing SVG" />
 </p>
 
-<h3 align="center">An Ai enthusiast & Full Stack System App Developer & Designer passionate about building intelligent systems and tools, including responsive Native enterprise Apps with Agentic-Ai-driven solutions.</h3>
+<h3 align="center">An AI enthusiast & Full Stack System App Developer & Designer passionate about building intelligent systems and tools, including responsive Native enterprise Apps with Agentic-AI-driven solutions.</h3>
 
 
 ---
